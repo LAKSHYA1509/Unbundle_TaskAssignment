@@ -1462,7 +1462,7 @@ body {
     border-radius: 26px;
     padding: 38px 38px 32px 38px;
     min-width: 320px;
-    max-width: 575px;
+    max-width: 477px;
     flex: 1 1 340px;
     box-sizing: border-box;
     display: flex;
@@ -1552,7 +1552,7 @@ body {
     border-radius: 26px;
     padding: initial;
     min-width: 390px;
-    max-width: 29vw;
+    max-width: 46vw;
     flex: 1 1 480px;
     gap: 0;
     box-sizing: border-box;
